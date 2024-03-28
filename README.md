@@ -14,7 +14,8 @@ React 网易云音乐网站
 -   榜单
 -   等待
 
-![image-20240328140348954](C:\Users\zgl\AppData\Roaming\Typora\typora-user-images\image-20240328140348954.png)
+![Uploading image.png…]()
+
 
 ![image-20240328135731547](C:\Users\zgl\AppData\Roaming\Typora\typora-user-images\image-20240328135731547.png)
 
@@ -81,7 +82,7 @@ React 网易云音乐网站
 clone项目：
 
 ```
-git clone https://github.com/coderwhy/hy-react-web-music.git
+git clone https://github.com/WENALG/gl-music.git
 ```
 
 
