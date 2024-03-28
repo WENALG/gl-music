@@ -23,7 +23,7 @@ React 网易云音乐网站
 
 
 
-![image-20240328135731547](https://github.com/WENALG/try/blob/master/gl-music-pic/pic2.png)
+![image text](https://github.com/WENALG/try/blob/master/gl-music-pic/pic2.png)
 
 
 ###### 2、歌曲播放：
