@@ -15,7 +15,7 @@ React 网易云音乐网站
 -   等待
 
 <div align="center">
-  <img src="src/image-20240328140348954.png">
+  <img src="[src/image-20240328140348954.png](https://github.com/WENALG/try/blob/master/gl-music-pic/pic1.jpg)">
 </div>
 
 
