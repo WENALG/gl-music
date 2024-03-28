@@ -19,7 +19,6 @@ React 网易云音乐网站
 </div>
 
 
-![image text：ssss](https://github.com/******/dbscan_clustering_algorithm/blob/master/data/dbscan_performance_comparison.png "DBSCAN Performance Comparison")
 
 
 
@@ -35,7 +34,7 @@ React 网易云音乐网站
 
 
 
-![image-20240328140131363](https://github.com/WENALG/try/blob/master/gl-music-pic/pic3.png)
+![image text](https://github.com/WENALG/try/blob/master/gl-music-pic/pic3.png)
 
 
 
@@ -46,7 +45,7 @@ React 网易云音乐网站
 
 - 做了置顶功能，窗口滚上一定距离就会出现置顶按钮
 
-![image-20240328135825680](https://github.com/WENALG/try/blob/master/gl-music-pic/pic4.png)
+![image text](https://github.com/WENALG/try/blob/master/gl-music-pic/pic4.png)
 
 
 
