@@ -96,7 +96,7 @@ git clone https://github.com/WENALG/gl-music.git
 安装项目依赖：
 
 ```
-yarn install
+npm install
 ```
 
 
@@ -104,6 +104,6 @@ yarn install
 项目运行：
 
 ```
-yarn start
+npm run start
 ```
 
