@@ -43,7 +43,7 @@ React 网易云音乐网站
 
 - 搭建了页面底部
 
-- 做了置顶功能，窗口滚下一定距离就会出现置顶按钮
+- 做了置顶功能，窗口滚上一定距离就会出现置顶按钮
 
 ![image-20240328135825680](https://github.com/WENALG/try/blob/master/gl-music-pic/pic4.png)
 
