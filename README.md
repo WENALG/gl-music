@@ -1,6 +1,4 @@
-<<<<<<< 瘦客户机
-# zgl
-myProject
+React 网易云音乐网站
 =======
 # Getting Started with Create React App
 
