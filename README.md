@@ -14,7 +14,10 @@ React 网易云音乐网站
 -   榜单
 -   等待
 
-![image text](https://github.com/******/dbscan_clustering_algorithm/blob/master/data/dbscan_performance_comparison.png "DBSCAN Performance Comparison")
+<div align="center">
+  <img src="src/image-20240328140348954.png">
+</div>
+
 
 
 
