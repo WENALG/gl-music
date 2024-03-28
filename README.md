@@ -22,7 +22,7 @@ React 网易云音乐网站
 
 
 
-![image-20240328135731547](https://github.com/WENALG/try/blob/master/gl-music-pic/pic1.jpg))
+![image-20240328135731547](https://github.com/WENALG/try/blob/master/gl-music-pic/pic2.png))
 
 
 
@@ -35,7 +35,7 @@ React 网易云音乐网站
 
 
 
-![image-20240328140131363](C:\Users\zgl\AppData\Roaming\Typora\typora-user-images\image-20240328140131363.png)
+![image-20240328140131363](https://github.com/WENALG/try/blob/master/gl-music-pic/pic3.png)
 
 
 
@@ -45,7 +45,7 @@ React 网易云音乐网站
 
 做了置顶功能，窗口滚下一定距离就会出现置顶按钮
 
-![image-20240328135825680](C:\Users\zgl\AppData\Roaming\Typora\typora-user-images\image-20240328135825680.png)
+![image-20240328135825680](https://github.com/WENALG/try/blob/master/gl-music-pic/pic4.png))
 
 
 
