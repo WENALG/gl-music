@@ -15,14 +15,14 @@ React 网易云音乐网站
 -   等待
 
 <div align="center">
-  <img src="(https://github.com/WENALG/try/blob/master/gl-music-pic/pic1.jpg)">
+  <img src="https://github.com/WENALG/try/blob/master/gl-music-pic/pic1.jpg">
 </div>
 
 
 
 
 
-![image-20240328135731547](C:\Users\zgl\AppData\Roaming\Typora\typora-user-images\image-20240328135731547.png)
+![image-20240328135731547](https://github.com/WENALG/try/blob/master/gl-music-pic/pic1.jpg))
 
 
 
